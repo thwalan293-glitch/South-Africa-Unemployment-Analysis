@@ -1,5 +1,5 @@
 # South-Africa-Unemployment-Power BI-Analysis
-Interactive Power BI dashboard analyzing unemployment trends in South Africa by gender, race, and geography type using Statssa quartely labour force survey 2026 data.
+Interactive Power BI dashboard analyzing unemployment trends in South Africa by gender, race, and geography type using Statistics South Africa quartely labour force survey 2026 data.
 
 ## The analysis focuses on:
 - Unemployment by gender
@@ -24,6 +24,6 @@ Interactive Power BI dashboard analyzing unemployment trends in South Africa by 
 - The unemployment rate in the dataset is approximately 32.57%
 
 ## Dataset Source
-Dataset obtained from Statssa.
+Dataset obtained from Statistics South Africa
 
 
