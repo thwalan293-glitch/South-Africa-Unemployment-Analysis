@@ -26,4 +26,5 @@ Interactive Power BI dashboard analyzing unemployment trends in South Africa by 
 ## Dataset Source
 Dataset obtained from Statistics South Africa
 
-
+# Author
+Nosipho Thwala
